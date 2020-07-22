@@ -1,0 +1,183 @@
+/* Container fluid */
+.container-fluid {
+  padding: 7% 15%;
+}
+/* Navbar  */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2rem;
+}
+.nav-link {
+  font-size: 1.5rem;
+  font-family: "Montserrat-Light";
+}
+
+.coloured-section {
+  background-color: #654062;
+}
+
+.title-img {
+  width: 60%;
+  position: absolute;
+  right: 10%;
+}
+
+.big-heading {
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 2.5rem;
+  color: antiquewhite;
+}
+.subtext {
+  color: #8f8f8f;
+  font-size: 1rem;
+}
+.object-text {
+  font-family: "Montserrat";
+  font-size: 2rem;
+}
+p {
+  font-family: "Montserrat-light", sans-serif;
+  color: #8f8f8f;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+h4 {
+  font-size: 1rem;
+}
+h3 {
+  font-size: 2rem;
+  color: #654062;
+}
+hr {
+  border-color: grey;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: ridge;
+  width: 100%;
+}
+
+/* Skills  */
+.skills-text {
+  color: antiquewhite;
+  font-family: "Montserrat";
+  font-size: 2rem;
+  padding-left: 1rem;
+}
+.fa-star {
+  color: antiquewhite;
+}
+
+/* .pro {
+  color: antiquewhite;
+  padding: 2rem;
+  font-size: 0.7 rem;
+} */
+
+.skill-table {
+  color: antiquewhite;
+  margin-top: 1rem;
+  margin-left: 3rem;
+  margin-right: 8rem;
+}
+.td-item {
+  font-size: 1.5rem;
+}
+
+/* Training Section */
+
+.training-text {
+  font-family: "Montserrat";
+  font-size: 2rem;
+  padding-left: 1rem;
+}
+
+.training-table {
+  margin-top: 1rem;
+  margin-left: 3rem;
+  margin-right: 5rem;
+}
+.training-table-two {
+  margin-top: 1rem;
+  margin-left: 3rem;
+  /* // margin-right: 5rem; */
+}
+.td-item {
+  font-size: 1.5rem;
+}
+
+/* Project Section */
+
+.project-text {
+  color: antiquewhite;
+
+  font-family: "Montserrat";
+  font-size: 2rem;
+  padding-left: 1rem;
+}
+
+.project-list {
+  color: antiquewhite;
+  margin: 1rem;
+  padding: 2rem;
+  font-size: 1.5rem;
+}
+
+/* certificate section */
+.certificate-text {
+  /* color: #654062; */
+  font-family: "Montserrat";
+  font-size: 2rem;
+  padding-left: 1rem;
+}
+
+.certificate-list {
+  margin: 1rem;
+  padding: 2rem;
+  font-size: 1.5rem;
+}
+
+/* extra section */
+.extra-text {
+  color: antiquewhite;
+  font-family: "Montserrat";
+  font-size: 2rem;
+  padding-left: 1rem;
+}
+
+.extra-list {
+  color: antiquewhite;
+  margin: 1rem;
+  padding: 2rem;
+  font-size: 1.5rem;
+}
+
+/* footer-Section */
+.footer {
+  background-color: #2b2e4a;
+}
+
+.copywrite {
+  color: white;
+  margin-top: 4rem;
+  text-align: center;
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+.footer-link {
+  color: #2b2e4a;
+  font-size: 1.5rem;
+  color: antiquewhite;
+  font-weight: bold;
+  margin-left: 6rem;
+  padding: 2rem;
+}
+
+.icon {
+  padding-right: 0.5rem;
+}
