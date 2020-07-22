@@ -93,6 +93,14 @@ hr {
 .td-item {
   font-size: 1.5rem;
 }
+.justcreated {
+  padding: 3rem;
+}
+.table_1 {
+  padding-right: 5rem;
+  font-size: 1.5rem;
+  color: antiquewhite;
+}
 
 /* Training Section */
 
@@ -100,6 +108,17 @@ hr {
   font-family: "Montserrat";
   font-size: 2rem;
   padding-left: 1rem;
+}
+.Duration {
+  padding: 1.5rem;
+}
+.table_2 {
+  padding-right: 5rem;
+  font-size: 1.5rem;
+  color: black;
+}
+.td-txt {
+  padding-left: 2rem;
 }
 
 .training-table {
