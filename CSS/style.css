@@ -52,7 +52,7 @@ p {
   font-size: 1rem;
 }
 h4 {
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 h3 {
   font-size: 2rem;
@@ -183,7 +183,9 @@ hr {
 
 /* footer-Section */
 .footer {
-  background-color: #2b2e4a;
+  text-align: center;
+  margin-top: 2rem;
+  padding-top: 1rem;
 }
 
 .copywrite {
@@ -194,12 +196,12 @@ hr {
   padding: 1rem;
 }
 
+.bottom-container {
+  background-color: #2b2e4a;
+}
 .footer-link {
-  color: #2b2e4a;
   font-size: 1.5rem;
   color: antiquewhite;
-  font-weight: bold;
-  margin-left: 5rem;
   padding: 1rem;
 }
 
@@ -207,9 +209,9 @@ hr {
   padding-right: 0.5rem;
 }
 
-@media (max-width: 629px) {
+/* @media (max-width: 629px) {
   div#contact {
     font-weight: 100px;
     font-size: 1rem;
   }
-}
+} */
